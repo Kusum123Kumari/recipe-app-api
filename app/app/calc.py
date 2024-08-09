@@ -1,6 +1,8 @@
-def sum(x, y):
-    return x + y
+"""
+Calculator functions
+"""
 
 
-def subs(x, y):
-    return y - x
+def add(x, y):
+    """Add x and y and return result."""
+    return x+y
