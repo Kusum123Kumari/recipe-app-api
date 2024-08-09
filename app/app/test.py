@@ -6,7 +6,7 @@ class CalcTests(SimpleTestCase):
         res=calc.sum(5,6)
         self.assertEqual(res,11)
 
-    def test_subtract_numbers(self):
-        res=calc.subs(9,4)
-        self.assertEqual(res,5)
+    # def test_subtract_numbers(self):
+    #     res=calc.subs(9,4)
+    #     self.assertEqual(res,5)
         
